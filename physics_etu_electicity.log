@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.14)  21 MAY 2017 01:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.14)  21 MAY 2017 03:09
 entering extended mode
 **./physics_etu_electicity.tex
 (physics_etu_electicity.tex
@@ -725,16 +725,25 @@ Overfull \hbox (1.86528pt too wide) in paragraph at lines 210--214
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
-[13] [14] [15] (physics_etu_electicity.aux)
+[13] [14] [15] [16
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
+
+Overfull \hbox (6.218pt too wide) in paragraph at lines 358--358
+[]\T2A/cmr/bx/n/14.4 Ёмисси€ элек-тро-нов. Ёлек-трон-ные при-бо-ры. ƒи-
+ []
+
+[17] [18] [19] (physics_etu_electicity.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2698 strings out of 493328
- 29141 string characters out of 3138241
+ 2701 strings out of 493328
+ 29162 string characters out of 3138241
  89472 words of memory out of 3000000
- 6204 multiletter control sequences out of 15000+200000
+ 6207 multiletter control sequences out of 15000+200000
  20349 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,8n,24p,1593b,374s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -760,9 +769,9 @@ blic/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9 2/fonts/type1/public/ams
 fonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9 2/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb><C:/Program Files/MiKTeX 2.9 2/fonts/type1/public/amsfonts/cm/cmsy7
 .pfb>
-Output written on physics_etu_electicity.pdf (15 pages, 230499 bytes).
+Output written on physics_etu_electicity.pdf (19 pages, 247916 bytes).
 PDF statistics:
- 402 PDF objects out of 1000 (max. 8388607)
+ 426 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
