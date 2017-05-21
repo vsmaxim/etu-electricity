@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.14)  21 MAY 2017 03:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.14)  21 MAY 2017 15:31
 entering extended mode
 **./physics_etu_electicity.tex
 (physics_etu_electicity.tex
@@ -640,64 +640,64 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (physics_etu_electicity.aux)
 \openout1 = `physics_etu_electicity.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
  [1
 
 
 {C:/Users/РЎРµСЂРіРµР№/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 33.
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 13.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 34.
 ("C:\Program Files\MiKTeX 2.9 2\tex\latex\base\omlcmr.fd"
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 33.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 34.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 33.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 34.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 33.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 33.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 34.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 34.
 
 ("C:\Program Files\MiKTeX 2.9 2\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
-LaTeX Font Info:    Try loading font information for U+msa on input line 33.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
+LaTeX Font Info:    Try loading font information for U+msa on input line 34.
 
 ("C:\Program Files\MiKTeX 2.9 2\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 33.
+LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 
 ("C:\Program Files\MiKTeX 2.9 2\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 33.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 34.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 33.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 34.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
 
 Underfull \vbox (badness 5563) has occurred while \output is active []
 
@@ -705,14 +705,14 @@ Underfull \vbox (badness 5563) has occurred while \output is active []
 
 ]
 [4] [5] [6]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 14.
 
-LaTeX Warning: Reference `img1' on page 7 undefined on input line 170.
+LaTeX Warning: Reference `img1' on page 7 undefined on input line 171.
 
 [7
 
 ]
-Overfull \hbox (1.86528pt too wide) in paragraph at lines 210--214
+Overfull \hbox (1.86528pt too wide) in paragraph at lines 211--215
 \T2A/cmr/m/n/10 тро-стан-ци-ях). В тер-мо-эле-мен-тах (тер-мо-па-рах) про-ис-хо
 -дит пре-вра-ще-ние теп-
  []
@@ -720,31 +720,46 @@ Overfull \hbox (1.86528pt too wide) in paragraph at lines 210--214
 [8] [9] [10
 
 ]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 15.
 [11] [12
 
 ]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 16.
 [13] [14] [15] [16
 
 ]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 17.
 
-Overfull \hbox (6.218pt too wide) in paragraph at lines 358--358
+Overfull \hbox (6.218pt too wide) in paragraph at lines 359--359
 []\T2A/cmr/bx/n/14.4 Эмиссия элек-тро-нов. Элек-трон-ные при-бо-ры. Ди-
  []
 
-[17] [18] [19] (physics_etu_electicity.aux)
+[17] [18]
+Overfull \hbox (13.804pt too wide) in paragraph at lines 421--421
+[]\T2A/cmr/bx/n/14.4 Умножители. Вто-рич-ная элек-трон-ная эмис-
+ []
+
+[19]
+Overfull \hbox (11.44594pt too wide) in paragraph at lines 443--444
+\T2A/cmr/m/n/10 получается как раз вбли-зи ка-то-да. При ра-ди-у-се кри-виз-ны 
+острия $\OML/cmm/m/it/10 r \OT1/cmr/m/n/10 = 10[][] =
+ []
+
+[20]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 18.
+[21
+
+] (physics_etu_electicity.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2701 strings out of 493328
- 29162 string characters out of 3138241
+ 2705 strings out of 493328
+ 29206 string characters out of 3138241
  89472 words of memory out of 3000000
- 6207 multiletter control sequences out of 15000+200000
- 20349 words of font info for 51 fonts, out of 3000000 for 9000
+ 6209 multiletter control sequences out of 15000+200000
+ 22097 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,8n,24p,1593b,374s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\РЎРµСЂРіРµР№\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dp
@@ -769,9 +784,9 @@ blic/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9 2/fonts/type1/public/ams
 fonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9 2/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb><C:/Program Files/MiKTeX 2.9 2/fonts/type1/public/amsfonts/cm/cmsy7
 .pfb>
-Output written on physics_etu_electicity.pdf (19 pages, 247916 bytes).
+Output written on physics_etu_electicity.pdf (21 pages, 260518 bytes).
 PDF statistics:
- 426 PDF objects out of 1000 (max. 8388607)
+ 449 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
